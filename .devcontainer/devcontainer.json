@@ -1,0 +1,8 @@
+{
+    "name": "react-bookshelf",
+    "image": "node:14",
+    "settings": {
+	"terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "remoteUser": "node"
+}
